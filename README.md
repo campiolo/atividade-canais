@@ -1,4 +1,4 @@
-#Atividade 10 - Canais
+#Atividade 13 - Canais
 
 1. Implementar o problema do produtor-consumidor usando Java
 NIO: Pipe, Pipe.SinkChannel e Pipe.SourceChannel.
